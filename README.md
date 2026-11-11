@@ -1,11 +1,11 @@
 # Hi, I'm maldrini 👋
 
-I work in IT and build the tools I wish I had on site. Open to new opportunities in IT.
+I work in **IT security** and build tools that make the daily work easier. Open to new opportunities in IT security.
 
 ## 🔭 Current project: [Netzblick](https://github.com/maldrini/Netzblick)
 
-Free network inventory and security check for IT people, for **Android** and **Windows**.
-Finds the devices on a network, checks open ports read-only, reports security findings in plain
+Free network inventory and security check for IT people, for **Android** and **Windows**. It started
+as a tool to make my own work in IT security easier; now anyone can use it. Finds the devices on a network, checks open ports read-only, reports security findings in plain
 German, surveys the Wi-Fi room by room and writes customer reports as PDF. Everything stays on the
 device: no cloud, no account, no tracking.
 
@@ -24,7 +24,7 @@ device: no cloud, no account, no tracking.
 ![Windows](https://img.shields.io/badge/Windows-1E5A8A?style=flat&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20%26%20GitHub-1E5A8A?style=flat&logo=github&logoColor=white)
 
-Networks, Wi-Fi, security basics and IT support in practice.
+IT security, networks and Wi-Fi in practice. More projects are on the way.
 
 ## 📫 Reach me
 
